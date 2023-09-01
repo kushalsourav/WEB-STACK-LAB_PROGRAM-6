@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 100px auto 0 auto;
+    border-radius: 20px;
+    background-color: rgb(163, 241, 255);
+    padding: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-btn {
+    padding: 10px 20px;
+    background-color: #fff;
+    outline: none;
+    border: 2px solid rgb(67, 67, 235);
+}

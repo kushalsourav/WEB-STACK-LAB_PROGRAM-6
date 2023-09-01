@@ -1,0 +1,22 @@
+.form-control {
+    display: flex;
+    flex-direction: column;
+}
+.input-label {
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.input-form {
+    padding: 10px 25px;
+    background-color: #fff;
+    outline: none;
+    border: 2px solid rgb(67, 67, 235);
+    margin: 16px 0;
+}
+
+.warning {
+    color: #ff0000;
+    border-color: #ff0000;
+}
